@@ -214,8 +214,8 @@ export function ChatInterface() {
                 </h2>
                 <p className="text-muted-foreground">
                   Ask questions about Good Clinical Practice (GCP) and
-                  compliance guidelines. I'm here to help with your clinical
-                  research questions.
+                  compliance guidelines. I&apos;m here to help with your
+                  clinical research questions.
                 </p>
               </div>
             </div>
