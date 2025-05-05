@@ -1,5 +1,5 @@
-import { AboutContent } from '@/components/about-content';
-import { Header } from '@/components/header';
+import { AboutContent } from "@/components/about-content";
+import { Header } from "@/components/header";
 
 export default function AboutPage() {
   return (

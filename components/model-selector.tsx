@@ -24,7 +24,7 @@ export function ModelSelector({ selectedModel, onSelect }: ModelSelectorProps) {
           onSelect(value as any);
         }}
       >
-        <SelectTrigger className="w-[180px]">
+        <SelectTrigger className="w-auto">
           <SelectValue placeholder="Select Model" />
         </SelectTrigger>
         <SelectContent>
